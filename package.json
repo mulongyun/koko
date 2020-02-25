@@ -16,5 +16,7 @@
     "url": "https://github.com/mulongyun/koko/issues"
   },
   "homepage": "https://github.com/mulongyun/koko#readme",
-  "devDependencies": {"gitbook-cli": "^2.3.2"}
+  "devDependencies": {
+	  "gitbook-cli": "^2.3.2"
+  }
 }
