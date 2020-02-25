@@ -1,0 +1,22 @@
+{
+  "name": "koko",
+  "version": "1.0.0",
+  "description": "这是gitbook自动化构建的demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mulongyun/koko.git"
+  },
+  "author": "mulongyun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mulongyun/koko/issues"
+  },
+  "homepage": "https://github.com/mulongyun/koko#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
